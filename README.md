@@ -3,6 +3,7 @@
 Major Project - Android App Development + Java Training Program (InternsElite)
 
 **Student:** Garvit Sharma
+**Roll Number:** AD-JV-A2/JY-11199 (matched by name in the official InternsElite roll list)
 
 An Android app to record income and expenses, see totals at a glance and keep the data on the phone. Written in Java with a Material 3 (Material You) interface.
 
