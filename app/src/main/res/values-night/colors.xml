@@ -1,0 +1,5 @@
+<resources>
+    <color name="income">#FF7FDA8C</color>
+    <color name="income_container">#FF005321</color>
+    <color name="on_income_container">#FFB7F2BF</color>
+</resources>

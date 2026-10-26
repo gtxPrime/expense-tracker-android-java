@@ -1,0 +1,4 @@
+<resources>
+    <!-- Material 3 with Material You dynamic colour (Android 12+); falls back to the baseline palette below. -->
+    <style name="Theme.ExpenseTracker" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>

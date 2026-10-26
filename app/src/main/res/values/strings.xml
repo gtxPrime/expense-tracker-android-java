@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="title_add_transaction">Add Transaction</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="remaining_balance">Remaining Balance</string>
+    <string name="recent_transactions">Recent transactions</string>
+    <string name="empty_list">No transactions yet.\nTap + to add your first one.</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="type_income">Income</string>
+    <string name="type_expense">Expense</string>
+    <string name="hint_amount">Amount (₹)</string>
+    <string name="hint_description">Description</string>
+    <string name="label_category">Category</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_title">Delete transaction?</string>
+    <string name="delete_message">This will remove \"%1$s\" permanently.</string>
+    <string name="saved">Transaction saved</string>
+    <string name="deleted">Transaction deleted</string>
+    <string name="error_amount_empty">Enter an amount</string>
+    <string name="error_amount_invalid">Enter a valid amount greater than 0 (max 2 decimals)</string>
+    <string name="error_amount_too_large">Amount is too large</string>
+    <string name="error_description_empty">Enter a description</string>
+    <string name="error_storage">Could not save. Please try again.</string>
+    <string name="error_load">Could not load transactions.</string>
+    <string name="category_income">Income</string>
+    <string name="category_food">Food</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_bills">Bills</string>
+    <string name="category_other">Other</string>
+</resources>
